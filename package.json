@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "webpack --watch --mode production ./entry.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-command": "^0.4.1"
+  }
+}
