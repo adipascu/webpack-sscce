@@ -1,0 +1,4 @@
+- Install npm modules `npm i`
+- Run build script `npm start`
+- Check outputted file: `dist/main.js`
+- It should not contain the string `SHOULD_NOT_BE_IN_BUNDLE`
