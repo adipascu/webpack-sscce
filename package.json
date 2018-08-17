@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "webpack --watch --mode production ./entry.js"
+    "start": "webpack --mode production ./entry.js"
   },
   "license": "MIT",
   "devDependencies": {
