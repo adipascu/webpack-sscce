@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "webpack --mode production ./entry.js"
+    "start": "webpack --mode production ./entry.js",
+    "workaround": "webpack --mode production ./entry_with_workaround.js"
   },
   "license": "MIT",
   "devDependencies": {
